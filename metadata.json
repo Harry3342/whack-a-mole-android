@@ -1,0 +1,6 @@
+{
+  "name": "Whack A Mole",
+  "description": "A fast-paced Whack-a-Mole arcade game with dynamic mole animations, combo streaks, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
